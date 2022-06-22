@@ -1,0 +1,7 @@
+echo "# KOSTJAN48" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/KOSTJAN48/KOSTJAN48.git
+ git push - ты главный kostjan
